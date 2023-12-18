@@ -1,0 +1,9 @@
+matplotlib
+streamlit
+pandas
+altair
+joblib
+scikit-learn
+seaborn
+plotly==5.18.0
+numpy
